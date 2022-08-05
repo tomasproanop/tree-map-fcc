@@ -9,7 +9,7 @@ I'll also learned about JSON and how to work with data online using an API.
 
 Screenshot: 
 
-<img src="https://github.com/tomasproanop/tree-map-fcc/blob/main/tree-map.jpg" width="255" height="177">
+<img src="https://github.com/tomasproanop/tree-map-fcc/blob/main/tree-map.jpg" width="500" height="327">
 
 
 
